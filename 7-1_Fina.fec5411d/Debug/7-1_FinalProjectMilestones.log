@@ -1,0 +1,25 @@
+﻿  MainCode.cpp
+  SceneManager.cpp
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(291,22): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(291,22): warning C4244:         with
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(291,22): warning C4244:         [
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(291,22): warning C4244:             _Ty=int
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(291,22): warning C4244:         ]
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(292,24): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(292,24): warning C4244:         with
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(292,24): warning C4244:         [
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(292,24): warning C4244:             _Ty=int
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(292,24): warning C4244:         ]
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(293,23): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(293,23): warning C4244:         with
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(293,23): warning C4244:         [
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(293,23): warning C4244:             _Ty=int
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(293,23): warning C4244:         ]
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(294,19): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(294,19): warning C4244:         with
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(294,19): warning C4244:         [
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(294,19): warning C4244:             _Ty=int
+C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Source\SceneManager.cpp(294,19): warning C4244:         ]
+  Generating Code...
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\srcth\OneDrive\Documents\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
